@@ -1,0 +1,102 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="dht" Collapsed="true">
+    <Position X="3" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAAAAAAAAYAMAACAAAAAAAAAQAAAAAAQAAAABAAA=</HashCode>
+      <FileName>dht.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LiquidCrystal" Collapsed="true">
+    <Position X="4.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gGBGAABAAGQAQAEQCBABAACQgA0gAAIkgQQAAAAhAAA=</HashCode>
+      <FileName>LiquidCrystal.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Regulator" Collapsed="true">
+    <Position X="3" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAAAEAIAAACIAAAAAAAACAAAAAgAAAAAAAAAAAAgA=</HashCode>
+      <FileName>Regulator.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Servo" Collapsed="true">
+    <Position X="4.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAAAIiAQAAAAACAAAAAABCAAAACAAQAAAAAgAAA=</HashCode>
+      <FileName>Servo-1.1.8\Servo-1.1.8\src\Servo.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Servos" Collapsed="true">
+    <Position X="6.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEEABCAAIAAAAAAAAAAAAEAAAAAAgAAAAADABAA=</HashCode>
+      <FileName>servo.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Temperature" Collapsed="true">
+    <Position X="3" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAgAAAAAAAAEKAEAABIAAAQCQCAEEiA=</HashCode>
+      <FileName>temp.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PushButton" Collapsed="true">
+    <Position X="6.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAAQAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>PushButton.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Struct Name="__unnamed_struct_0188_1" Collapsed="true">
+    <Position X="0.5" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAQAAAAAAAABAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Servo-1.1.8\Servo-1.1.8\src\Servo.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="__unnamed_struct_0188_2" Collapsed="true">
+    <Position X="0.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAACAAAIAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Servo-1.1.8\Servo-1.1.8\src\Servo.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Typedef Name="ServoPin_t" Collapsed="true">
+    <Position X="0.5" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Servo-1.1.8\Servo-1.1.8\src\Servo.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="servo_t" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Servo-1.1.8\Servo-1.1.8\src\Servo.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="__builtin_va_list" Collapsed="true">
+    <Position X="3" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>__vm\.Sketch1.vsarduino.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="div_t" Collapsed="true">
+    <Position X="4.75" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>__vm\.Sketch1.vsarduino.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="ldiv_t" Collapsed="true">
+    <Position X="6.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>__vm\.Sketch1.vsarduino.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
